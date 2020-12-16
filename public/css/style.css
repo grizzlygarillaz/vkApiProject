@@ -1,0 +1,15 @@
+@media screen and (max-width: 760px){
+    #authForm {
+        width: 100% !important;
+    }
+}
+
+.errorMessage {
+    color: #fd6060;
+}
+
+.lightButton:hover {
+    background: transparent;
+    border: #ffffff 1px solid;
+    color: white;
+}
